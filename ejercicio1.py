@@ -1,3 +1,5 @@
 #Ejercicio #1 Game of Progra
 
-print("Hola")
+suma = 1 + 2
+
+print("Hola, la suma 1 + 2 es: ", suma)
